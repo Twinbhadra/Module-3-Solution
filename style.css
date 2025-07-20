@@ -1,0 +1,16 @@
+
+body {
+  font-family: Arial, sans-serif;
+}
+
+.navbar-nav {
+  background-color: #eee;
+}
+
+.navbar-nav > li > a {
+  color: #333;
+}
+
+.col-xs-12 {
+  padding: 20px;
+}
